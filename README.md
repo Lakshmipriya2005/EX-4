@@ -2,7 +2,7 @@
 
 # EXP: 4
 
-# DATE:29-03-2023
+# DATE:
 
 # AIM:
 To write a python program for implementing Address Resolution Protocol(ARP).
